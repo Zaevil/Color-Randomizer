@@ -1,0 +1,12 @@
+body{
+    background-color:beige;
+}
+#rgbDescription{
+    border:0px solid;
+    background-color:white;
+    width:100px;
+    height:100px;
+    padding:10px;
+    border-radius: 30px;;
+}
+
